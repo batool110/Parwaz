@@ -1,3 +1,5 @@
+# Parwaz
+Digital Schooling System with Innovation
 
 ![Parwaz](https://i.stack.imgur.com/57CXz.jpg)
 
